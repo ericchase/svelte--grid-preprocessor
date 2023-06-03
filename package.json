@@ -19,6 +19,7 @@
         "url": "https://github.com/ericchase"
     },
     "main": "index.js",
+    "type": "module",
     "repository": {
         "type": "git",
         "url": "https://github.com/ericchase/svelte--grid-preprocessor.git"
