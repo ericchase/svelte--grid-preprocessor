@@ -1,0 +1,34 @@
+{
+    "name": "grid-preprocessor",
+    "version": "1.0.0",
+    "description": "A custom svelte preprocessor for making custom css grids.",
+    "keywords": [
+        "preprocessor",
+        "svelte preprocessor",
+        "svelte"
+    ],
+    "homepage": "https://github.com/ericchase/svelte--grid-preprocessor#readme",
+    "bugs": {
+        "url": "https://github.com/ericchase/svelte--grid-preprocessor/issues",
+        "email": "github@eric.addymail.com"
+    },
+    "license": "Apache-2.0",
+    "author": {
+        "name": "ericchase",
+        "email": "github@eric.addymail.com",
+        "url": "https://github.com/ericchase"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ericchase/svelte--grid-preprocessor.git"
+    },
+    "devDependencies": {
+        "tslib": "^2.5.3",
+        "typescript": "^5.1.3"
+    },
+    "engines": {
+        "node": ">=14.17"
+    },
+    "private": "true"
+}
